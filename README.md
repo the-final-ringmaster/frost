@@ -1,7 +1,11 @@
 frostLang
 =========
 
+
 Origins
 -------
+Frost is a language and IDE currently being developed and maintained by the RingFire duo.
 
-frostLang is a language not so actively developed by the <abbr title="RingMaster and Ath0rus">RingFire</abbr> duo. That's all I have to say for now due to the fact that we haven't made much progress yet.
+Visions
+-------
+Frost is planned to be a visual scripting IDE(<u>I</u>ntegrated <u>D</u>evelopment <u>E</u>nviroment) for making computer development quicker and easier. It is in no means for kids. It is meant as an industrial grade piece of software for making development easier.
